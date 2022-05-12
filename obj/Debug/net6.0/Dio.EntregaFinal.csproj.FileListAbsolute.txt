@@ -1,0 +1,15 @@
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\Dio.EntregaFinal.csproj.AssemblyReference.cache
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\Dio.EntregaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\Dio.EntregaFinal.AssemblyInfoInputs.cache
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\Dio.EntregaFinal.AssemblyInfo.cs
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\Dio.EntregaFinal.csproj.CoreCompileInputs.cache
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\bin\Debug\net6.0\Dio.EntregaFinal.exe
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\bin\Debug\net6.0\Dio.EntregaFinal.deps.json
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\bin\Debug\net6.0\Dio.EntregaFinal.runtimeconfig.json
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\bin\Debug\net6.0\Dio.EntregaFinal.dll
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\bin\Debug\net6.0\Dio.EntregaFinal.pdb
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\Dio.EntregaFinal.dll
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\refint\Dio.EntregaFinal.dll
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\Dio.EntregaFinal.pdb
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\Dio.EntregaFinal.genruntimeconfig.cache
+C:\Users\yagoa\Desktop\arquivos_de_treinamento\11-Csharp\Entrega2\Dio.EntregaFinal\obj\Debug\net6.0\ref\Dio.EntregaFinal.dll
